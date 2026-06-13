@@ -38,7 +38,8 @@ When the human incident commander joins (even hours later), the analysis, drafts
 ## Architecture Diagram
 
 View the full agent architecture and Band collaboration flow on Figma (viewer access):
-BreachRoom Architecture — Figma
+[BreachRoom Architecture — Figma](https://www.figma.com/board/d5CicDGLjXLk5LMxMVFnBk/BreachRoom?node-id=0-1&t=bBVWzWBiHv9Wnigs-1)
+
 ## Demo Scenario
 
 A 120-person B2B SaaS company. 2am Saturday. A misconfigured S3 bucket exposed ~30,000 customer records (emails, hashed passwords, partial payment data) for 6 hours. The on-call security engineer — alone — posts the alert into the BreachRoom.
